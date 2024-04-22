@@ -1,2 +1,2 @@
-# my-app
- Thiis is my first repository.
+# TextUtils
+ Thiis is my first React project on GitHub.
